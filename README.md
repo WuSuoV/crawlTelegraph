@@ -35,14 +35,10 @@
 
 3、输入链接
 
-![image-20221013001937965](https://a-image.1ove.club/image/2022/10/bdd89e17aae328a218b8fb44cbc91e6b.png)
+![image-20221013001937965](https://a-image.1ove.club/image/2022/10/708808c3cbdb208d2c00f981093fc1fb.png)
 
 4、看看结果
 
-![image-20221013002003172](https://a-image.1ove.club/image/2022/10/f7b809eebe8d209020a4690d443ed818.png)
+![image-20221013002003172](https://a-image.1ove.club/image/2022/10/381d0b1c6cb7a5cab32826c5298e0f9a.png)
 
-因为我已经下过了，所以已存在的会直接跳过。
 
-5、同时下载多个链接
-
-嗯……你同时打开多个页面一起提交就行了。
