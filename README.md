@@ -2,6 +2,14 @@
 
 爬取Telegraph中的图片资源
 
+## 交流
+
+* QQ频道：[QQ频道 - 1OVE导航](https://www.1ove.club/archives/qq_pindao.html)
+
+* Telegram频道：[1OVE CLUB Channel - 1OVE导航](https://www.1ove.club/archives/club_1ove.html)
+
+  Telegram讨论群：[https://t.me/Chat_1OVE](https://t.me/Chat_1OVE)
+
 ## 起因
 
 &emsp;&emsp;因为看到一个COSER挺漂亮的，所以想下载她的资源。但是呢，找是找到了，只不过是放在Telegraph中的。这如果是一张一张下吧，效率特别低。要是用浏览器插件吧，我又不太乐意。
@@ -40,5 +48,4 @@
 4、看看结果
 
 ![image-20221013002003172](https://a-image.1ove.club/image/2022/10/381d0b1c6cb7a5cab32826c5298e0f9a.png)
-
 
