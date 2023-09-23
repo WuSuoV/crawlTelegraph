@@ -27,7 +27,7 @@
 * [NO.003 【Fantia】 2022年07月套图 【56P-173MB】 – Telegraph](https://telegra.ph/NO003-Fantia-2022年07月套图-56P-173MB-10-01-2)
 * [NO.004 【Fantia】 2022年09月套图 【35P-376MB】 – Telegraph](https://telegra.ph/NO004-Fantia-2022年09月套图-35P-376MB-10-03)
 
-<img src="https://a-image.1ove.club/image/2022/10/33f0c9f33250307bfbdd2f49bbefff26.png" alt="image-20221013001714058" width=360 />
+<img src="https://static.wusuov.com/image/2022/10/33f0c9f33250307bfbdd2f49bbefff26.png" alt="image-20221013001714058" width=360 />
 
 还是挺好看的……
 
@@ -37,15 +37,15 @@
 
 2、直接双击运行
 
-![image-20221013001816523](https://a-image.1ove.club/image/2022/10/3e931ee11084d09f401e9b3793175ec0.png)
+![image-20221013001816523](https://static.wusuov.com/image/2022/10/3e931ee11084d09f401e9b3793175ec0.png)
 
 `http://192.168.1.10:9901`这个意味着在同一个WiFi下，手机进入网址也是可以的。
 
 3、输入链接
 
-![image-20221013001937965](https://a-image.1ove.club/image/2022/10/9637c8475f5e46f6c3b108f5507aa575.png)
+![image-20221013001937965](https://static.wusuov.com/image/2022/10/9637c8475f5e46f6c3b108f5507aa575.png)
 
 4、看看结果
 
-![image-20221013002003172](https://a-image.1ove.club/image/2022/10/381d0b1c6cb7a5cab32826c5298e0f9a.png)
+![image-20221013002003172](https://static.wusuov.com/image/2022/10/381d0b1c6cb7a5cab32826c5298e0f9a.png)
 
