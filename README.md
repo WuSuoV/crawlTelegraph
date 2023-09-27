@@ -4,11 +4,7 @@
 
 ## 交流
 
-* QQ频道：[QQ频道 - 1OVE导航](https://www.1ove.club/archives/qq_pindao.html)
-
-* Telegram频道：[1OVE CLUB Channel - 1OVE导航](https://www.1ove.club/archives/club_1ove.html)
-
-  Telegram讨论群：[https://t.me/Chat_1OVE](https://t.me/Chat_1OVE)
+Telegram讨论群：[https://www.yiove.com/#telegram](https://www.yiove.com/#telegram)
 
 ## 起因
 
@@ -16,7 +12,7 @@
 
 &emsp;&emsp;所以就自己动手用Python写了一个爬虫。
 
-&emsp;&emsp;查看更多：[批量下载Telegraph中的图片 - 勿埋我心 (qian.blue)](https://www.qian.blue/archives/crawlTelegraph.html)
+&emsp;&emsp;查看更多：[批量下载Telegraph中的图片 - 勿埋我心 (qian.blue)](https://www.skyqian.com/archives/crawlTelegraph.html)
 
 ## 如何使用
 
